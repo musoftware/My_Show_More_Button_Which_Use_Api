@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "name": "mahmoud"
+        },
+        {
+            "name": "ahmed"
+        }
+    ],
+    "paging": {
+        "next": "data2.json"
+    }
+}
